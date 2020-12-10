@@ -14,7 +14,7 @@ Image feature extract functions:
    
 Extracted features:
 1. All features:         Feaures.mat
-2. Important features:   Feature_al_sig.mat
+2. Important features:   Feature_all_sig.mat
 
 
 Machine Learning models:
