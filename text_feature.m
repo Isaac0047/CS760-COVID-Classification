@@ -52,7 +52,7 @@ for i = 1:length(com(1,:))
     end
 end
 
-%% Ni Cha Fen Ju
+%% Inverse Difference Moment
 NF = 0;
 
 for i = 1:length(com(1,:))
