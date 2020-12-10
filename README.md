@@ -6,7 +6,7 @@ Codes are explained as follows:
 Image resizing method:   CS760_Image_Resize.ipynb
 
 Image feature extract functions:
-Main code:               Final_image_read.m
+Main feature extraction: Final_image_read.m
 1. Statistical Property: stat_feature.m
 2. Texture feature:      text_feature.m
 3. Shape feature:        shape_feature.m
